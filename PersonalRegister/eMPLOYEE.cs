@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace PersonalRegister
 {
-    internal class Class1
+     class Employee
     {
+        public string Name { get; set; }
+        public int Salary { get; set; } 
     }
 }
