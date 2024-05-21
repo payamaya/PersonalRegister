@@ -52,7 +52,6 @@ class Program
                     Console.WriteLine(" Invalid Input");
                     break;
             }
-          
             //2 krav 
             // ta emot och lagra anställda med namn och lön
             //skriv ut i konsol
