@@ -11,4 +11,9 @@ namespace PersonalRegister
         public string Name { get; set; }
         public int Salary { get; set; } 
     }
+   public static void UsingACustomType()
+    {
+        List<string> list = new List<string>();
+        StringBuilder.
+    }
 }
